@@ -1,0 +1,15 @@
+# Archivos compilados de Java
+*.class
+
+# Directorios de construcción
+bin/
+build/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
+
+# Archivos de registro
+*.log
+
+# Archivos de miniaturas de Windows
+Thumbs.db
